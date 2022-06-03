@@ -3,11 +3,11 @@
 ### Hi, I'm Andrzej
 Welcome to my profile on Github.
 
+**Technologies, tools, and languages I usually use for my personal projects:**
 
+:small_red_triangle:Visual Studio Code :small_red_triangle:Visual Studio Community Edition :small_red_triangle:InteliJ IDEA
 
-**Technologies and languages I usually use for my personal projects:** 
-
-:small_orange_diamond:MariaDB :small_orange_diamond:MySQL :small_orange_diamond:SQLite
+:small_orange_diamond:Bootstrap :small_orange_diamond:MariaDB :small_orange_diamond:MySQL :small_orange_diamond:SQLite
 
 :small_blue_diamond:HTML :small_blue_diamond:CSS :small_blue_diamond:JavaScript :small_blue_diamond:C# :small_blue_diamond:Java :small_blue_diamond:PHP :small_blue_diamond:SQL 
 
