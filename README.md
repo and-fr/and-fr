@@ -1,4 +1,6 @@
-> ### To code, or not to code, that is the question. 
+```
+To code, or not to code, that is the question. 
+```
 
 ### Hi, I'm Andrzej
 Welcome to my profile on Github.
@@ -10,6 +12,7 @@ Welcome to my profile on Github.
 :small_orange_diamond:Bootstrap :small_orange_diamond:MariaDB :small_orange_diamond:MySQL :small_orange_diamond:SQLite
 
 :small_blue_diamond:HTML :small_blue_diamond:CSS :small_blue_diamond:JavaScript :small_blue_diamond:C# :small_blue_diamond:Java :small_blue_diamond:PHP :small_blue_diamond:SQL 
+
 
 <!--
 - 👋 Hi, I’m @and-fr
