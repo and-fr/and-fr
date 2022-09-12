@@ -11,7 +11,7 @@ Welcome to my profile on Github.
 
 :small_orange_diamond:Bootstrap :small_orange_diamond:MariaDB :small_orange_diamond:MySQL :small_orange_diamond:SQLite
 
-:small_blue_diamond:HTML :small_blue_diamond:CSS :small_blue_diamond:JavaScript :small_blue_diamond:C# :small_blue_diamond:Java :small_blue_diamond:PHP :small_blue_diamond:SQL 
+:small_blue_diamond:HTML :small_blue_diamond:CSS :small_blue_diamond:JavaScript :small_blue_diamond:PHP :small_blue_diamond:SQL :small_blue_diamond:C# :small_blue_diamond:Java
 
 
 <!--
